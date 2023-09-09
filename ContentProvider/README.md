@@ -128,7 +128,6 @@ public void btnGetContactPressed(View view) {
 ![p](https://user-images.githubusercontent.com/128135244/241409953-07ea2207-a2d8-494d-b9e3-e579f308a3d1.png)
 ``
 
-## OUTPUT
 
 
 
