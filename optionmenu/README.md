@@ -17,8 +17,8 @@ Latest Version Android Studio
 ```
 /*
 Program to print the text “optionmenu”.
-Developed by:varshitha A T
-Registeration Number :212221040176
+Developed by:B Subash Raj
+Registeration Number :212221040164
 */
 ```
 ## Activity_xml File:
