@@ -28,7 +28,7 @@ Step 7: Save and run the application.
 ```
 
 ## PROGRAM:
-```
+``` 
 /*
 Program to print the text “ExplicitIntent”.
 Developed by:B.Subash Raj
